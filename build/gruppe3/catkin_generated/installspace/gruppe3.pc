@@ -1,8 +1,0 @@
-prefix=/home/ge34caj/catkin_ws_test/install
-
-Name: gruppe3
-Description: Description of gruppe3
-Version: 0.0.0
-Cflags: -I/home/ge34caj/catkin_ws_test/install/include
-Libs: -L/home/ge34caj/catkin_ws_test/install/lib 
-Requires: 

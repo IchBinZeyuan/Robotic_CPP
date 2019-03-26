@@ -1,8 +1,0 @@
-prefix=/home/ge34caj/catkin_ws_test/devel
-
-Name: robottest
-Description: Description of robottest
-Version: 0.0.0
-Cflags: -I/home/ge34caj/catkin_ws_test/devel/include
-Libs: -L/home/ge34caj/catkin_ws_test/devel/lib 
-Requires: roscpp std_msgs message_runtime
