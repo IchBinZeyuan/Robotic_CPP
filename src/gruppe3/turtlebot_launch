@@ -1,0 +1,4 @@
+<launch>
+<node name = "run_game_2" pkg = "gruppe3" type = "run_game_2"/>
+<node name = "anti_bump" pkg = "gruppe3" type = "anti_bump" output = "screen"/>
+</launch>

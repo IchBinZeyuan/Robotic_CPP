@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/ge34caj/catkin_ws_test/devel/lib/libreferee.a  CMakeFiles/referee.dir/hermes.cpp.o CMakeFiles/referee.dir/referee.cpp.o CMakeFiles/referee.dir/referee_automoc.cpp.o
+/usr/bin/ranlib /home/ge34caj/catkin_ws_test/devel/lib/libreferee.a
